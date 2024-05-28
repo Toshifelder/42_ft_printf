@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   width.c                                            :+:      :+:    :+:   */
+/*   apply_margin.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: monoue <marvin@student.42.fr>              +#+  +:+       +#+        */
+/*   By: towatana <towatana@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/08/06 16:06:58 by monoue            #+#    #+#             */
-/*   Updated: 2020/08/20 12:34:21 by monoue           ###   ########.fr       */
+/*   Created: 2024/05/29 03:10:30 by towatana          #+#    #+#             */
+/*   Updated: 2024/05/29 03:11:13 by towatana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,7 +29,7 @@ static void	fill_empty_width(char filler, char ***new_target,
 	}
 }
 
-void		apply_margin(char **new_target, int empty_width,
+void	apply_margin(char **new_target, int empty_width,
 														t_format_info *info)
 {
 	if (info->minus)

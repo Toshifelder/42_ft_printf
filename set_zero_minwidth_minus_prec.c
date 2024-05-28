@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   set_zero_minwidth_minus_prec.c                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: monoue <marvin@student.42.fr>              +#+  +:+       +#+        */
+/*   By: towatana <towatana@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/08/06 16:09:36 by monoue            #+#    #+#             */
-/*   Updated: 2020/08/24 09:30:00 by monoue           ###   ########.fr       */
+/*   Created: 2024/05/29 03:14:32 by towatana          #+#    #+#             */
+/*   Updated: 2024/05/29 03:14:34 by towatana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
